@@ -1,4 +1,4 @@
-inputStr = "PyNaTive"
+inputStr = input("Enter String")
 words = inputStr.split()
 lower = []
 upper = []
